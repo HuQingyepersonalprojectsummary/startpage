@@ -101,7 +101,7 @@ const default_config = {
               icon: "certificate",
               icon_color: palette.lavender,
             },
-          ]
+          ],
         },
         {
           name: "",
@@ -119,12 +119,12 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "perplexity",
-              url: "https://www.perplexity.ai/",
-              icon: "asterisk",
-              icon_color: palette.green,
+              name: "gemini",
+              url: "https://gemini.google.com/",
+              icon: "sparkles",
+              icon_color: palette.blue,
             },
-          ]
+          ],
         },
       ],
     },
